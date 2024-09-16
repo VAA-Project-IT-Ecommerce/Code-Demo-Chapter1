@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "Demo"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "hoanganh",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}

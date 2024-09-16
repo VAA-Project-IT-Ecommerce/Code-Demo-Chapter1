@@ -1,0 +1,1 @@
+Kết quả sẽ là nội dung của file readme.txt được in ra
